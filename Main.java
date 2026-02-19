@@ -5,7 +5,8 @@ public class Main {
 
         acc1.deposit(100);
         acc1.withdraw(600.55);
-        acc1.setOwnerName("Di");
+        acc1.setOwnerName("Dima");
         acc1.getInfo();
     }
 }
+

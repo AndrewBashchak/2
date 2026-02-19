@@ -1,4 +1,4 @@
-public class BankAccount {
+public class BankAccount {в
     private String accountNumber;
     private String ownerName;
     private double balance;
@@ -49,3 +49,4 @@ public class BankAccount {
         System.out.println("Balance: " + correctBalance);
     }
 }
+
